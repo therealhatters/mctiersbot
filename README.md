@@ -1,5 +1,3 @@
-so it should look like this?
-
 # Setup Instructions - MCTiers Waitlist Bot
 
 1. Create the bot  
